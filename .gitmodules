@@ -1,0 +1,3 @@
+[submodule "hitcon"]
+	path = hitcon
+	url = https://github.com/scwuaptx/HITCON-Training.git
