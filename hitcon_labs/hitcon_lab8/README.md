@@ -6,4 +6,4 @@ I solved the first part very easily but the second part was a bit tricky. As you
 
 
 #### References
-![Took help from this video](https://www.youtube.com/watch?v=2HxyGWD1htg)
+![Took help from this video](https://youtu.be/2HxyGWD1htg)
