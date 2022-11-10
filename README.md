@@ -22,8 +22,7 @@ List of all the exploits that I'll ever write or have written!
     - [lab7](https://github.com/brightprogrammer/pwned/blob/master/hitcon_labs/hitcon_lab7/exploit.py) format string arbitrary read
     - [lab8](https://github.com/brightprogrammer/pwned/blob/master/hitcon_labs/hitcon_lab8/exploit.py) format string arbitrary write
     - [lab9](https://github.com/brightprogrammer/pwned/blob/master/hitcon_labs/hitcon_lab9/exploit.py) mix of lab 7 and 8
-- **3rd November 2022** - Started learning Heap Exploitation techniques.
+- **6th November 2022** - Started learning Heap Exploitation techniques.
 
 ---
-
 If you have some other awesome labs or challenge set, please do send it to me 😇 I'd love to solve them 😋 

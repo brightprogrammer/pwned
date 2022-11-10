@@ -8,3 +8,5 @@ tmp/
 build
 htmlcov
 rop_emporium_all_challenges/
+heaplab_solutions/glibc/glibc-2.28/
+heaplab_solutions/glibc/glibc-2.28_no_tcache/
