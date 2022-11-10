@@ -23,6 +23,8 @@ List of all the exploits that I'll ever write or have written!
     - [lab8](https://github.com/brightprogrammer/pwned/blob/master/hitcon_labs/hitcon_lab8/exploit.py) format string arbitrary write
     - [lab9](https://github.com/brightprogrammer/pwned/blob/master/hitcon_labs/hitcon_lab9/exploit.py) mix of lab 7 and 8
 - **6th November 2022** - Started learning Heap Exploitation techniques.
-
+    - [house of force](https://github.com/brightprogrammer/pwned/tree/master/heaplab_solutions/house_of_force) - HeapLab 1 Notes
+      - [arbitrary write](https://github.com/brightprogrammer/pwned/blob/master/heaplab_solutions/house_of_force/exploit_arbitrary_write.py) - Can allow us to overwrite any memory region that we want!
+      - [get shell](https://github.com/brightprogrammer/pwned/blob/master/heaplab_solutions/house_of_force/exploit_getshell.py) - Can allow us arbitrary code execution.
 ---
 If you have some other awesome labs or challenge set, please do send it to me 😇 I'd love to solve them 😋 
