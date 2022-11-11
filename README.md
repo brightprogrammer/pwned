@@ -25,6 +25,12 @@ List of all the exploits that I'll ever write or have written!
 - **6th November 2022** - Started learning Heap Exploitation techniques.
     - [house of force](https://github.com/brightprogrammer/pwned/tree/master/heaplab_solutions/house_of_force) - HeapLab 1 Notes
       - [arbitrary write](https://github.com/brightprogrammer/pwned/blob/master/heaplab_solutions/house_of_force/exploit_arbitrary_write.py) - Can allow us to overwrite any memory region that we want!
-      - [get shell](https://github.com/brightprogrammer/pwned/blob/master/heaplab_solutions/house_of_force/exploit_getshell.py) - Can allow us arbitrary code execution.
+      - [get shell](https://github.com/brightprogrammer/pwned/blob/master/heaplab_solutions/house_of_force/exploit_getshell.py) - Can allow us arbitrary code execution.  
+
+- **11th November 2022** - Added solution for Exploit Education Phoenix lab
+  - [stack zero](https://github.com/brightprogrammer/pwned/tree/master/exploit_education/phoenix/stack-one)
+
+**Learnings slowing down for a while because I have my end semester exams coming in almost ten days**
+
 ---
 If you have some other awesome labs or challenge set, please do send it to me 😇 I'd love to solve them 😋 
